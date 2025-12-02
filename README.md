@@ -1,0 +1,2 @@
+# wikimedia-censorship-case-digital-authoritarianism-internet-freedom-iran-rights-documentation
+GitHub Strategy - Short Version:  Document everything on GitHub → Share on Reddit/Twitter → Contact journalists → Pressure Wikimedia. This bypasses Wikipedia's closed system and uses public pressure for accountability. Your evidence is strong - make it visible internationally. Create repo, add screenshots, write clear README, enable GitHub Pages.
