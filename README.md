@@ -51,3 +51,13 @@
 ---
 *This repository documents potential human rights violations in knowledge access. Last updated: 1 December 2025*# wikimedia-censorship-case-digital-authoritarianism-internet-freedom-iran-rights-documentation
 GitHub Strategy - Short Version:  Document everything on GitHub → Share on Reddit/Twitter → Contact journalists → Pressure Wikimedia. This bypasses Wikipedia's closed system and uses public pressure for accountability. Your evidence is strong - make it visible internationally. Create repo, add screenshots, write clear README, enable GitHub Pages.
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۴۵۵_Chrome](https://github.com/user-attachments/assets/2080a55c-daab-487d-acaf-771e3201f873)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۵۵۰_Chrome](https://github.com/user-attachments/assets/76d3a2d2-a641-4198-9564-7d2b62ad849e)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۶۲۵_Chrome](https://github.com/user-attachments/assets/6d913a27-1bc1-4fda-85d4-b4845dd2d89f)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۱۳۰_Chrome](https://github.com/user-attachments/assets/ce5d70bd-621c-4120-8faf-d7e44f183fed)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۱۴۶_Chrome](https://github.com/user-attachments/assets/34b23e78-5a69-4bfb-85c7-4502fcd78668)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۲۰۷_Chrome](https://github.com/user-attachments/assets/1552f353-ae53-4c47-ac04-3d0b084f42b1)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۲۱۸_Chrome](https://github.com/user-attachments/assets/37eba8de-9534-4fb7-823b-d90dc2222897)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۲۵۴_Chrome](https://github.com/user-attachments/assets/06cd7a78-be87-46ba-bacb-ab225398a7e4)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۳۱۹_Chrome](https://github.com/user-attachments/assets/5a659ca4-db28-48c9-bc8f-29caea52406a)
+![Screenshot_۲۰۲۵۱۲۰۱-۱۵۰۳۲۶_Chrome](https://github.com/user-attachments/assets/a6dacb24-5049-4db7-b572-d7abea76770f)
