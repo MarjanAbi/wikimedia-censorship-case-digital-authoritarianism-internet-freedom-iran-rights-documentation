@@ -1,4 +1,4 @@
-# 🚨 Systematic Censorship in Persian Wikipedia - Documented Case
+# 🚨 Systematic Censorship in Wikipedia - Documented Case - Iranian Actor Javad Nazari 
 
 ## 🔒 URGENT: Account Globally Locked After Reporting Bias
 **Username:** Lilizeynali  
